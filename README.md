@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdinasir-Abdullahi, Sofware Developer
+- 👋 Hi, I’m @Abdinasir, Sofware Developer
 - 👀 I’m interested in IT industry
 - 🌱 I’m currently learning Advance Sofware Developement
 - 💞️ I’m looking to collaborate on IT industry companies to get experienced
